@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sanjeevkumaraular01-png">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sanjeeb+(Sanju)+%F0%9F%91%8B;Server+Hardware+Engineer;Infrastructure+Specialist+%7C+DevOps+Enthusiast;Bare-metal+%E2%86%92+Hypervisor+%E2%86%92+Pipeline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sanjeeb+%F0%9F%91%8B;Server+Hardware+Engineer;Infrastructure+Specialist+%7C+DevOps+Enthusiast;Bare-metal+%E2%86%92+Hypervisor+%E2%86%92+Pipeline" alt="Typing SVG" />
 </a>
 
 <p>
