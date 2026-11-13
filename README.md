@@ -18,7 +18,7 @@
 
 ```bash
 sanju@infra:~$ cat about.yml
-name:      Sanjeeb (Sanju)
+name:      Sanjeeb Kumar 
 role:      Server Hardware Engineer & Infrastructure Specialist
 also:      DevOps enthusiast
 works_on:  bare-metal → hypervisors → storage → automation → pipelines
